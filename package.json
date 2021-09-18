@@ -1,0 +1,31 @@
+{
+    "name": "freeton-solidity-syntax",
+    "displayName": "FreeTON Solidity syntax",
+    "description": "Syntax highlighter for FreeTON Solidity",
+    "publisher": "html-code",
+    "license": "MIT",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/html-code/freeton-solidity-syntax"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "solidity",
+            "aliases": ["Solidity (FreeTON)", "solidity"],
+            "extensions": [".sol",".solt"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "solidityft",
+            "scopeName": "source.solidity",
+            "path": "./syntaxes/solidity.tmLanguage.json"
+        }]
+    }
+}
