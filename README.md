@@ -2,7 +2,12 @@
 
 Visual Studio Code Syntax highlighter for FreeTON Solidity.
 
+_Created as a submission for contest - Syntax highlighting for
+Solidify source code files written for Free TON_.
+
 Telegram: @vetrostep
+
+Source code: https://github.com/html-code/freeton-solidity-syntax
 
 ## Features
 
