@@ -2,6 +2,8 @@
 
 Visual Studio Code Syntax highlighter for FreeTON Solidity.
 
+Telegram: @vetrostep
+
 ## Features
 
 Extension supports two file extensions: `.sol` and `.solt`. You can rename your files to `.solt` to avoid conflict with original Solidity highlighter. Or you can choose "Solidity (FreeTON) (solidityft)" highlighter in editor (per file).
