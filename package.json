@@ -17,8 +17,8 @@
     ],
     "contributes": {
         "languages": [{
-            "id": "solidity",
-            "aliases": ["Solidity (FreeTON)", "solidity"],
+            "id": "solidityft",
+            "aliases": ["Solidity (FreeTON)", "solidityft"],
             "extensions": [".sol",".solt"],
             "configuration": "./language-configuration.json"
         }],
